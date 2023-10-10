@@ -1,0 +1,358 @@
+ [{
+         "id": 855,
+         "name": "CITY CLUB TORREON",
+         "externalId": "1001",
+         "legacyExternalId": "140",
+         "type": "CITY"
+     },
+     {
+         "id": 856,
+         "name": "CITY CLUB MONCLOVA",
+         "externalId": "1002",
+         "legacyExternalId": "150",
+         "type": "CITY"
+     },
+     {
+         "id": 857,
+         "name": "CITY CLUB CHIHUAHUA",
+         "externalId": "1003",
+         "legacyExternalId": "154",
+         "type": "CITY"
+     },
+     {
+         "id": 858,
+         "name": "CITY CLUB SALTILLO",
+         "externalId": "1004",
+         "legacyExternalId": "165",
+         "type": "CITY"
+     },
+     {
+         "id": 859,
+         "name": "CITY CLUB PACHUCA",
+         "externalId": "1005",
+         "legacyExternalId": "166",
+         "type": "CITY"
+     },
+     {
+         "id": 860,
+         "name": "CITY CLUB VILLAHERMOSA",
+         "externalId": "1006",
+         "legacyExternalId": "167",
+         "type": "CITY"
+     },
+     {
+         "id": 861,
+         "name": "CITY CLUB SAN JERONIMO",
+         "externalId": "1007",
+         "legacyExternalId": "174",
+         "type": "CITY"
+     },
+     {
+         "id": 862,
+         "name": "CITY CLUB TUXTLA",
+         "externalId": "1008",
+         "legacyExternalId": "242",
+         "type": "CITY"
+     },
+     {
+         "id": 863,
+         "name": "CITY CLUB COLIMA",
+         "externalId": "1009",
+         "legacyExternalId": "249",
+         "type": "CITY"
+     },
+     {
+         "id": 864,
+         "name": "CITY CLUB LOS CABOS",
+         "externalId": "1010",
+         "legacyExternalId": "250",
+         "type": "CITY"
+     },
+     {
+         "id": 865,
+         "name": "CITY CLUB TAMPICO",
+         "externalId": "1011",
+         "legacyExternalId": "310",
+         "type": "CITY"
+     },
+     {
+         "id": 866,
+         "name": "CITY CLUB LA PAZ",
+         "externalId": "1012",
+         "legacyExternalId": "312",
+         "type": "CITY"
+     },
+     {
+         "id": 867,
+         "name": "CITY CLUB NUEVO LAREDO",
+         "externalId": "1013",
+         "legacyExternalId": "324",
+         "type": "CITY"
+     },
+     {
+         "id": 868,
+         "name": "CITY CLUB REYNOSA",
+         "externalId": "1014",
+         "legacyExternalId": "325",
+         "type": "CITY"
+     },
+     {
+         "id": 869,
+         "name": "CITY CLUB DURANGO",
+         "externalId": "1015",
+         "legacyExternalId": "326",
+         "type": "CITY"
+     },
+     {
+         "id": 870,
+         "name": "CITY CLUB CANCUN",
+         "externalId": "1016",
+         "legacyExternalId": "365",
+         "type": "CITY"
+     },
+     {
+         "id": 871,
+         "name": "CITY CLUB COACALCO",
+         "externalId": "1017",
+         "legacyExternalId": "366",
+         "type": "CITY"
+     },
+     {
+         "id": 872,
+         "name": "CITY CLUB IXTAPALUCA",
+         "externalId": "1018",
+         "legacyExternalId": "367",
+         "type": "CITY"
+     },
+     {
+         "id": 873,
+         "name": "CITY CLUB GOMEZ PALACIO",
+         "externalId": "1019",
+         "legacyExternalId": "370",
+         "type": "CITY"
+     },
+     {
+         "id": 874,
+         "name": "CITY CLUB TOLUCA",
+         "externalId": "1020",
+         "legacyExternalId": "619",
+         "type": "CITY"
+     },
+     {
+         "id": 875,
+         "name": "CITY CLUB LINCOLN",
+         "externalId": "1021",
+         "legacyExternalId": "620",
+         "type": "CITY"
+     },
+     {
+         "id": 876,
+         "name": "CITY CLUB HERMOSILLO",
+         "externalId": "1022",
+         "legacyExternalId": "733",
+         "type": "CITY"
+     },
+     {
+         "id": 877,
+         "name": "CITY CLUB CULIACAN",
+         "externalId": "1023",
+         "legacyExternalId": "712",
+         "type": "CITY"
+     },
+     {
+         "id": 878,
+         "name": "CITY CLUB PLAYA DEL CARMEN",
+         "externalId": "1024",
+         "legacyExternalId": "745",
+         "type": "CITY"
+     },
+     {
+         "id": 879,
+         "name": "CITY CLUB SAN JOSE VIEJO",
+         "externalId": "1025",
+         "legacyExternalId": "789",
+         "type": "CITY"
+     },
+     {
+         "id": 880,
+         "name": "CITY CLUB ECATEPEC",
+         "externalId": "1026",
+         "legacyExternalId": "1102",
+         "type": "CITY"
+     },
+     {
+         "id": 881,
+         "name": "CITY CLUB SANTA MONICA",
+         "externalId": "1027",
+         "legacyExternalId": "1119",
+         "type": "CITY"
+     },
+     {
+         "id": 882,
+         "name": "CITY CLUB QUERETARO",
+         "externalId": "1028",
+         "legacyExternalId": "1120",
+         "type": "CITY"
+     },
+     {
+         "id": 883,
+         "name": "CITY CLUB UNIVERSIDAD",
+         "externalId": "1029",
+         "legacyExternalId": "1121",
+         "type": "CITY"
+     },
+     {
+         "id": 884,
+         "name": "CITY CLUB REVOLUCION",
+         "externalId": "1030",
+         "legacyExternalId": "1122",
+         "type": "CITY"
+     },
+     {
+         "id": 885,
+         "name": "CITY CLUB PUEBLA",
+         "externalId": "1031",
+         "legacyExternalId": "1123",
+         "type": "CITY"
+     },
+     {
+         "id": 886,
+         "name": "CITY CLUB PUERTA DE HIERRO",
+         "externalId": "1032",
+         "legacyExternalId": "1155",
+         "type": "CITY"
+     },
+     {
+         "id": 887,
+         "name": "CITY CLUB PIEDRAS NEGRAS",
+         "externalId": "1033",
+         "legacyExternalId": "1156",
+         "type": "CITY"
+     },
+     {
+         "id": 888,
+         "name": "CITY CLUB VALLEJO",
+         "externalId": "1034",
+         "legacyExternalId": "1157",
+         "type": "CITY"
+     },
+     {
+         "id": 889,
+         "name": "CITY CLUB LEON",
+         "externalId": "1035",
+         "legacyExternalId": "1158",
+         "type": "CITY"
+     },
+     {
+         "id": 890,
+         "name": "CITY CLUB ZACATECAS",
+         "externalId": "1036",
+         "legacyExternalId": "2733",
+         "type": "CITY"
+     },
+     {
+         "id": 891,
+         "name": "CITY CLUB TAPACHULA CHIAPAS",
+         "externalId": "1037",
+         "legacyExternalId": "2740",
+         "type": "CITY"
+     },
+     {
+         "id": 892,
+         "name": "CITY CLUB CD. VICTORIA TAMAULIPAS",
+         "externalId": "1039",
+         "legacyExternalId": "2894",
+         "type": "CITY"
+     },
+     {
+         "id": 893,
+         "name": "CITY CLUB CD. DEL CARMEN",
+         "externalId": "1040",
+         "legacyExternalId": "2898",
+         "type": "CITY"
+     },
+     {
+         "id": 913,
+         "name": "CDS City Club Salinas Victoria",
+         "externalId": "5520",
+         "legacyExternalId": "364",
+         "type": "CITY"
+     },
+     {
+         "id": 916,
+         "name": "CDS City Club Querétaro",
+         "externalId": "5523",
+         "legacyExternalId": "385",
+         "type": "CITY"
+     },
+     {
+         "id": 934,
+         "name": "CDS City Club Tultitlan",
+         "externalId": "5542",
+         "legacyExternalId": "1060",
+         "type": "CITY"
+     },
+     {
+         "id": 988,
+         "name": "CDS City Club Guadalajara",
+         "externalId": "5613",
+         "legacyExternalId": "1412",
+         "type": "CITY"
+     },
+     {
+         "id": 992,
+         "name": "CDS CITY CLUB SALINAS VICTORIA SLS",
+         "externalId": "5645",
+         "legacyExternalId": "2734",
+         "type": "CITY"
+     },
+     {
+         "id": 993,
+         "name": "CDS CITY CLUB QUERETARO SLS",
+         "externalId": "5646",
+         "legacyExternalId": "2735",
+         "type": "CITY"
+     },
+     {
+         "id": 994,
+         "name": "CDS CITY CLUB TULTITLAN SLS",
+         "externalId": "5647",
+         "legacyExternalId": "2736",
+         "type": "CITY"
+     },
+     {
+         "id": 995,
+         "name": "CDS CITY CLUB GUADALAJARA SLS",
+         "externalId": "5648",
+         "legacyExternalId": "2737",
+         "type": "CITY"
+     },
+     {
+         "id": 996,
+         "name": "CDS CITY CLUB TIJUANA SLS",
+         "externalId": "5649",
+         "legacyExternalId": "2738",
+         "type": "CITY"
+     },
+     {
+         "id": 997,
+         "name": "CDS CITY CLUB VILLAHERMOSA SLS",
+         "externalId": "5650",
+         "legacyExternalId": "2739",
+         "type": "CITY"
+     },
+     {
+         "id": 998,
+         "name": "CDS City Club Tijuana",
+         "externalId": "5670",
+         "legacyExternalId": "1922",
+         "type": "CITY"
+     },
+     {
+         "id": 1001,
+         "name": "CDS City Club Villahermosa",
+         "externalId": "5682",
+         "legacyExternalId": "1999",
+         "type": "CITY"
+     }
+ ]
