@@ -15,20 +15,18 @@ const formatDataForReport = (
   errorOnTransfer,
   isGeneralReport
 ) => {
-  const { shipment, externalId, cedis, location } = shipmentLocation;
+  const { shipment, externalId, cedis, location, arrivedAt, day } = shipmentLocation;
   const reportData = {
     tienda: location,
     cedis,
     embarque: shipment,
     guia: externalId,
+    creacion: day,
+    arribo: arrivedAt,
     transferencia: pendingTransfersString,
-    creacion: shipmentLocation.day,
-    arribo: shipmentLocation.arrivedAt,
   };
   if (!isGeneralReport) {
     reportData.error = errorOnTransfer;
-    delete reportData.creacion;
-    delete reportData.arribo;
   }
   return reportData;
 };
